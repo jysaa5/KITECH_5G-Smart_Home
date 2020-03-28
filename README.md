@@ -16,6 +16,22 @@
 <img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_04.png?raw=true" width="90%" height="90%">
 <h2>Smart CCTV 실시간 설정: 각도, 화질</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_05.png?raw=true" width="90%" height="90%">
+<h2>Smart LED: On & Off</h2>
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_06.PNG?raw=true" width="90%" height="90%">
+<h2>Smart Styler: 웹캠 촬영</h2>
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_07.PNG?raw=true" width="90%" height="90%">
+<h2>Smart Styler: 촬영 사진 리스트</h2>
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_08.PNG?raw=true" width="90%" height="90%">
+<h2>Smart Styler: 촬영 사진 상세보기</h2>
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_09.PNG?raw=true" width="90%" height="90%">
+<h2>My Home History: IoT 기기 로그(사용기록)버튼 나열 화면</h2>
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_10.PNG?raw=true" width="90%" height="90%">
+<h2>My Home History: 실시간 온도 센서 로그 확인 화면</h2>
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_11.PNG?raw=true" width="90%" height="90%">
+<h2>My Home History: 실시간 온도 센서 로그 DB 리스트</h2>
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_12.PNG?raw=true" width="90%" height="90%">
+<h2>My Home History: 실시간 온도 센서 로그 DB 상세보기</h2>
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_13.PNG?raw=true" width="90%" height="90%">
 <ul>
   <li>프로젝트 주제: Smart Home<br></li>
   <li>프로젝트 기간: 2020.02.19~2020.03.27<br></li>
