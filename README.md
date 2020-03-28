@@ -240,5 +240,5 @@
  <li><a href="https://youtu.be/2tuxZsQu5Gs">동영상: Smart Fan</a></li>
  <li><a href="https://youtu.be/9sLJtIJzzKU">동영상: Smart LED - User Page에서 제어</a></li>
  <li><a href="https://youtu.be/-ErMg0LLR8o">동영상: Smart LED - 구글 어시스턴트로 음성 제어</a></li>
- <li><a href="https://youtu.be/-ErMg0LLR8o">동영상: Smart Styler</a></li>
+ <li><a href="https://youtu.be/-sCoXi_RcYU">동영상: Smart Styler</a></li>
  </ul>
