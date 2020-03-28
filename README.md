@@ -52,14 +52,46 @@
   </tr>
 </table>
  <li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
- <li>개발 환경(H/W): RaspberryPi 3</li>
+ <li>개발 환경(H/W)</li>
+ <table>
+  <tr>
+    <th align=center>H/W</th>
+    <th align=center>모델명</th>
+  </tr>
+  <tr>
+    <th align=center colspan='2'>Single Board Computer</th>
+  </tr>
+  <tr>
+    <td align=center>RaspberryPi</td>
+    <td align=center>3</td>
+  </tr>
+  <tr>
+    <th align=center>Sensor</th>
+  </tr>
+  <tr>
+    <td align=center>초음파 센서</td>
+    <td align=center></td>
+  </tr>
+  <tr>
+    <td  align=center>지문인식 센서</td>
+  </tr>
+  <tr>
+    <td align=center>조도 센서</td>
+  </tr>
+  <tr>
+    <td align=center>온습도 센서</td>
+  </tr>
+  <tr>
+    <td 
+  
+  
  <li>개발  환경(S/W)</li>
  <table>
   <tr>
    <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
   </tr>
   <tr>
-   <th colspan='2' background-color="#FFFF00">서버(Server)</th>
+   <th colspan='2'>서버(Server)</th>
   </tr>
   <tr>
    <td align=center>Java</td> <td align=center>8</td>
