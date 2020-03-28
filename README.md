@@ -66,7 +66,7 @@
     <td align=center>3</td>
   </tr>
   <tr>
-    <th align=center>Sensor</th>
+    <th align=center colspan='2'>Sensor</th>
   </tr>
   <tr>
     <td align=center>초음파 센서</td>
@@ -74,15 +74,64 @@
   </tr>
   <tr>
     <td  align=center>지문인식 센서</td>
+    <td></td>
   </tr>
   <tr>
     <td align=center>조도 센서</td>
+    <td></td>
   </tr>
   <tr>
     <td align=center>온습도 센서</td>
+    <td></td>
   </tr>
   <tr>
-    <td 
+    <th align=center colspan='2'>Device</th>
+  </tr>
+  <tr>
+    <td align=center>LCD</td>
+    <td align=center></td>
+  </tr>
+  <tr>
+    <td align=center>Pi Camera</td>
+    <td align=center></td>
+  </tr>
+    <tr>
+    <td align=center>DC Motor</td>
+    <td align=center></td>
+  </tr>
+    <tr>
+    <td align=center>DC Motor Module</td>
+    <td align=center></td>
+  </tr>
+    <tr>
+    <td align=center>LED</td>
+    <td align=center></td>
+  </tr>
+    <tr>
+    <td align=center>LED</td>
+    <td align=center></td>
+  </tr>
+    <tr>
+    <td align=center>Servo Motor</td>
+    <td align=center></td>
+  </tr>
+    <tr>
+    <td align=center>Webcam</td>
+    <td align=center>EDU9</td>
+  </tr>
+  <tr>
+    <td align=center>Bluetooth Speaker</td>
+    <td align=center></td>
+  </tr>
+    <tr>
+    <td align=center>Pin Microphone</td>
+    <td align=center></td>
+  </tr>
+    <tr>
+    <td align=center>USB Audio Adapter with 3.5mm speaker-Headphone and Microphone Jack</td>
+    <td align=center></td>
+  </tr>
+  </table>
   
   
  <li>개발  환경(S/W)</li>
