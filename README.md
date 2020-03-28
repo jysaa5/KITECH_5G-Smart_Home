@@ -79,42 +79,42 @@
   </tr>
   <tr>
     <td align=center>조도 센서</td>
-    <td>CDS</td>
+    <td align=center>CDS</td>
   </tr>
   <tr>
     <td align=center>온습도 센서</td>
-    <td></td>
+    <td align=center>DHT 11</td>
   </tr>
   <tr>
     <th align=center colspan='2'>Device</th>
   </tr>
   <tr>
     <td align=center>LCD</td>
-    <td align=center></td>
+    <td align=center>1602 LCD</td>
   </tr>
   <tr>
-    <td align=center>Pi Camera</td>
-    <td align=center></td>
+    <td align=center>라즈베리파이 카메라 모듈</td>
+    <td align=center>Raspberry Pi Camera Module 5MP</td>
   </tr>
     <tr>
     <td align=center>DC Motor</td>
-    <td align=center></td>
+    <td align=center>MEC-88456</td>
   </tr>
     <tr>
     <td align=center>DC Motor Module</td>
-    <td align=center></td>
+    <td align=center>2Amp Motor Driver Shield</td>
   </tr>
     <tr>
     <td align=center>LED</td>
-    <td align=center></td>
+    <td align=center>MEC-10422</td>
   </tr>
     <tr>
     <td align=center>LED</td>
-    <td align=center></td>
+    <td align=center>MEC-12889</td>
   </tr>
     <tr>
     <td align=center>Servo Motor</td>
-    <td align=center></td>
+    <td align=center>SG90</td>
   </tr>
     <tr>
     <td align=center>Webcam</td>
@@ -122,7 +122,7 @@
   </tr>
   <tr>
     <td align=center>Bluetooth Speaker</td>
-    <td align=center></td>
+    <td align=center>Bulldog Speaker</td>
   </tr>
     <tr>
     <td align=center>Pin Microphone</td>
@@ -130,7 +130,7 @@
   </tr>
     <tr>
     <td align=center>USB Audio Adapter</td>
-    <td align=center></td>
+    <td align=center>BS135</td>
   </tr>
    <tr>
     <td align=center>TTL UART 6pin 모듈 시리얼변환 컨버터</td>
