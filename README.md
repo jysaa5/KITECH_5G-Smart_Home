@@ -232,6 +232,9 @@
   <td align=center></td>
   </tr>
  </table>
+ </ul>
+ <ul>
+  <li>구현한 동영상</li>
  <li><a href="https://youtu.be/DrZNhi_z8A0">동영상: Server+Client User Page</a></li>
  <li><a href="https://youtu.be/IO4ilfK0pNI">동영상: Smart Security - 지문인식</a></li>
  <li><a href="https://youtu.be/KPzPgT8OTbU">동영상: Smart Security - 자동문</a></li>
