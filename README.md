@@ -52,6 +52,7 @@
   </tr>
 </table>
  <li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
+ <br>
  <li>개발 환경(H/W)</li>
  <table>
   <tr>
@@ -70,15 +71,15 @@
   </tr>
   <tr>
     <td align=center>초음파 센서</td>
-    <td align=center></td>
+    <td align=center>HC-SR04</td>
   </tr>
   <tr>
-    <td  align=center>지문인식 센서</td>
-    <td></td>
+    <td align=center>지문인식 센서</td>
+    <td align=center>JM101 AS608</td>
   </tr>
   <tr>
     <td align=center>조도 센서</td>
-    <td></td>
+    <td>CDS</td>
   </tr>
   <tr>
     <td align=center>온습도 센서</td>
@@ -130,6 +131,10 @@
     <tr>
     <td align=center>USB Audio Adapter</td>
     <td align=center></td>
+  </tr>
+   <tr>
+    <td align=center>TTL UART 6pin 모듈 시리얼변환 컨버터</td>
+    <td align=center>CP2102 USB</td>
   </tr>
   </table>
   <br>
