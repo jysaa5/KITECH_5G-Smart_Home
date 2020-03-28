@@ -11,9 +11,11 @@
 <h2>Smart CCTV 촬영 사진&동영상</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_01.PNG?raw=true" width="90%" height="90%">
 <h2>Smart CCTV 촬영 사진&동영상 상세보기</h2>
-<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_02.PNG?raw=true" width="90%" height="90%">
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_02.png?raw=true" width="90%" height="90%">
 <h2>Smart CCTV 실시간</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_04.png?raw=true" width="90%" height="90%">
+<h2>Smart CCTV 실시간 설정: 각도, 화질</h2>
+<img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_05.png?raw=true" width="90%" height="90%">
 <ul>
   <li>프로젝트 주제: Smart Home<br></li>
   <li>프로젝트 기간: 2020.02.19~2020.03.27<br></li>
