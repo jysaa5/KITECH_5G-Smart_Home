@@ -48,7 +48,7 @@
   <td align=center><h6>팀원</h6></td> <td align=center><h6>구자윤</h6></td> <td align=center><h6>박지은</h6></td> <td align=center><h6>조성빈</h6></td> <td align=center><h6>조지윤</h6></td> <td align=center><h6>김주연</h6></td> <td align=center><h6>정용기</h6></td>
   </tr>
   <tr>
-  <td align=center><h6>기능</h6></td><td align=center>Smart Security: 지문인식기</td><td align=center>Smart Fan, Smart Sensor LED</td><td align=center>Smart Security: Smart CCTV, 자동문</td><td align=center>Smart LED, My Home History: Data Analysis</td><td align=center>Server 담당, Smart Styler</td><td align=center><h6>서포트 역할</h6></td>
+  <td align=center><h6>기능</h6></td><td align=center><h6>Smart Security: 지문인식기<h6></td><td align=center><h6>Smart Fan, Smart Sensor LED</h6></td><td align=center><h6>Smart Security: Smart CCTV, 자동문</h6></td><td align=center><h6>Smart LED, My Home History: Data Analysis</h6></td><td align=center><h6>Server 담당, Smart Styler</h6></td><td align=center><h6>서포트 역할</h6></td>
   </tr>
 </table>
  <li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
