@@ -1,20 +1,11 @@
 ## 한국생산기술연구원(KITECH) IoT기술을 활용한 생산 공정 실무자 양성과정
 2019.10.01 ~ 2020.03.31 <br>
 한국생산기술연구연 2019년도 출연(연) 4차인재양성사업 하반기 직무 훈련생 김주연(JooYeon Kim)입니다.<br>
-<hr>
-<h3>[직무 훈련 과정]</h3>
-<ul>
- <li> Hardware: Arduino | RaspberryPi <br></li>
- <li> Language: Java | HTML5, CSS3, JavaScript, jQuery, ajax | Python | Kotlin  <br></li>
- <li> Database: Oracle, MySQL, SQLite <br></li>
- <li> Framework: Spring, Spring boot | Mybatis | Flask <br></li>
- <li> Tool: Eclipse | sqldeveloper, MySQL Workbench 8.0 CE | Brackets | Visual Stuido Code | Flask | Android Studio </li>
- <li> Cloud Computing Services: Amazon Web Services(AWS) - EC2, RDS</li>
- <li> Server: Apache HTTP Server | PuTTY </li>
- <li> Web Application Server(WAS): Tomcat </li>
- <li> Operating System(OS): Window | Linux | Raspbian</li>
-</ul>
-<hr>
+이 공간은 IoT Project Repository입니다. <br><br>
+## Team Project: Web Server + Client User Page + RaspberryPi Flask Server
+<h3><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Server_And_Client%20User%20Page_Version_2020.03.09/IoT_TeamProject_200309">[Spring 프로젝트] </a></h3>
+<h3><a href="http://ec2-13-209-26-197.ap-northeast-2.compute.amazonaws.com:8080/smarthome/">[AWS로 배포된 ]</a><br></h3>
+<br>
 <h3><a href="https://github.com/jysaa5/kite_IoT/tree/master/TeamProject_Web/Web_TeamProject_Server_200320"> [팀 프로젝트_Web] </a></h3>
 <img src="https://github.com/jysaa5/kite_IoT/blob/master/TeamProject_Web/TeamProject_Web_Front.PNG?raw=true" width="50%" height="50%">
 <img src="https://github.com/jysaa5/kite_IoT/blob/master/TeamProject_Web/TeamProject_Web_01.PNG?raw=true" width="50%" height="50%">
