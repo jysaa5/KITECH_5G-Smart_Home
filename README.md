@@ -40,7 +40,7 @@
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Proposal">프로젝트 기획안</a></li>
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Presentation">프로젝트 발표</a></lli>
   <li>역할 분담: 각 기능별 코드 작성, 구현, 제작 <br></li>
-   <table font-size=70%>
+   <table font-size=10px>
   <tr>
   <th colspan = "7" align=center>프로젝트 주제: Smart Home</th>
   </tr>
