@@ -48,7 +48,7 @@
     <td align=center>팀원</td> <td align=center>구자윤</td> <td align=center>박지은</td> <td align=center>조성빈</td> <td align=center>조지윤</td> <td align=center>김주연</td> <td align=center>정용기</td>
   </tr>
   <tr>
-    <td align=center>기능</td><td align=center>Smart Security: 지문인식기</td><td align=center>Smart Fan</td><td align=center>Smart Security: Smart CCTV, 자동문</td><td align=center>Smart LED, My Home History: Data Analysis</td><td align=center>Server 담당, Smart Styler</td><td align=center>서포트 역할</td>
+    <td align=center>기능</td><td align=center>Smart Security: 지문인식기</td><td align=center>Smart Fan, Smart Sensor LED</td><td align=center>Smart Security: Smart CCTV, 자동문</td><td align=center>Smart LED, My Home History: Data Analysis</td><td align=center>Server 담당, Smart Styler</td><td align=center>서포트 역할</td>
   </tr>
   </table>
   <li>H/W: RaspberryPi 3
