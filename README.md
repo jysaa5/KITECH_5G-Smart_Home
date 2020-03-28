@@ -128,11 +128,11 @@
     <td align=center></td>
   </tr>
     <tr>
-    <td align=center>USB Audio Adapter with 3.5mm speaker-Headphone and Microphone Jack</td>
+    <td align=center>USB Audio Adapter</td>
     <td align=center></td>
   </tr>
   </table>
-  
+  <br>
   
  <li>개발  환경(S/W)</li>
  <table>
