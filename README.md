@@ -54,7 +54,7 @@
  <li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
  <li>개발 환경(H/W): RaspberryPi 3</li>
  <li>개발  환경(S/W)</li>
- <table width="80%">
+ <table width="80px">
   <tr>
    <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
   </tr>
