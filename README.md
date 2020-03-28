@@ -212,14 +212,33 @@
   <td align=center>Flask</td>
   <td align=center>1.1.1</td>
   </tr>
+  <tr>
+   <th colspan='2'>Library</hd>
+  </tr>
+  <tr>
+  <td align=center>Google Assistant</td>
+  <td align=center></td>
+  </tr>
+  <tr>
+  <td align=center>OpenCV</td>
+  <td align=center>3.4.3</td>
+  </tr>
+  <tr>
+  <td align=center>pandas</td>
+  <td align=center></td>
+  </tr>
+  <tr>
+  <td align=center>matplotlib</td>
+  <td align=center></td>
+  </tr>
  </table>
- <li><a href="https://youtu.be/DrZNhi_z8A0">구현한 동영상: Server+Client User Page</a></li>
- <li><a href="https://youtu.be/IO4ilfK0pNI">구현한 동영상: 지문인식</a></li>
- <li><a href="https://youtu.be/KPzPgT8OTbU">구현한 동영상: 자동문</a></li>
- <li><a href="https://youtu.be/6SzFV7boc3Y">구현한 동영상: 실시간 Smart CCTV</a></li>
- <li><a href="https://youtu.be/MOalms-jVFo">구현한 동영상: Smart Sensor LED</a></li>
- <li><a href="https://youtu.be/2tuxZsQu5Gs">구현한 동영상: Smart Fan</a></li>
- <li><a href="https://youtu.be/9sLJtIJzzKU">구현한 동영상: Smart LED - User Page에서 제어</a></li>
- <li><a href="https://youtu.be/-ErMg0LLR8o">구현한 동영상: Smart LED - 구글 어시스턴트로 음성 제어</a></li>
- <li><a href="https://youtu.be/-ErMg0LLR8o">구현한 동영상: Smart Styler</a></li>
+ <li><a href="https://youtu.be/DrZNhi_z8A0">동영상: Server+Client User Page</a></li>
+ <li><a href="https://youtu.be/IO4ilfK0pNI">동영상: 지문인식</a></li>
+ <li><a href="https://youtu.be/KPzPgT8OTbU">동영상: 자동문</a></li>
+ <li><a href="https://youtu.be/6SzFV7boc3Y">동영상: 실시간 Smart CCTV</a></li>
+ <li><a href="https://youtu.be/MOalms-jVFo">동영상: Smart Sensor LED</a></li>
+ <li><a href="https://youtu.be/2tuxZsQu5Gs">동영상: Smart Fan</a></li>
+ <li><a href="https://youtu.be/9sLJtIJzzKU">동영상: Smart LED - User Page에서 제어</a></li>
+ <li><a href="https://youtu.be/-ErMg0LLR8o">동영상: Smart LED - 구글 어시스턴트로 음성 제어</a></li>
+ <li><a href="https://youtu.be/-ErMg0LLR8o">동영상: Smart Styler</a></li>
  </ul>
