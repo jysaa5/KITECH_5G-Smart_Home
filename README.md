@@ -37,8 +37,8 @@
   <li>프로젝트 기간: 2020.02.19~2020.03.27<br></li>
   <li>팀명: 5G / 팀장: 박지은  <br></li>
   <li>팀원: <a href="https://github.com/jy950902">구자윤</a>, <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a>   <br></li>
-  <li>프로젝트 기획안</li>
-  <li>프로젝트 발표</lli>
+  <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Proposal">프로젝트 기획안</a></li>
+  <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Presentation">프로젝트 발표</a></lli>
   <li>역할: 각 기능별 코드 작성, 구현, 제작 <br></li>
    <table>
   <tr>
