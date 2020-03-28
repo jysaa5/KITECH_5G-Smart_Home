@@ -40,7 +40,7 @@
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Proposal">프로젝트 기획안</a></li>
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Presentation">프로젝트 발표</a></lli>
   <li>역할 분담: 각 기능별 코드 작성, 구현, 제작 <br></li>
-   <table>
+   <table width="80%" height="80%">
   <tr>
   <th colspan = "7" align=center>프로젝트 주제: Smart Home</th>
   </tr>
@@ -54,7 +54,7 @@
  <li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
  <li>개발 환경(H/W): RaspberryPi 3</li>
  <li>개발  환경(S/W)</li>
- <table width="80px">
+ <table>
   <tr>
    <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
   </tr>
