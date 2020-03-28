@@ -235,13 +235,29 @@
  </ul>
  <ul>
   <li>구현한 동영상</li>
- <li><a href="https://youtu.be/DrZNhi_z8A0">동영상: Server+Client User Page</a></li>
- <li><a href="https://youtu.be/IO4ilfK0pNI">동영상: Smart Security - 지문인식</a></li>
- <li><a href="https://youtu.be/KPzPgT8OTbU">동영상: Smart Security - 자동문</a></li>
- <li><a href="https://youtu.be/6SzFV7boc3Y">동영상: Smart CCTV - User Page에서 실시간 확인</a></li>
- <li><a href="https://youtu.be/MOalms-jVFo">동영상: Smart Sensor LED</a></li>
- <li><a href="https://youtu.be/2tuxZsQu5Gs">동영상: Smart Fan</a></li>
- <li><a href="https://youtu.be/9sLJtIJzzKU">동영상: Smart LED - User Page에서 제어</a></li>
- <li><a href="https://youtu.be/-ErMg0LLR8o">동영상: Smart LED - 구글 어시스턴트로 음성 제어</a></li>
- <li><a href="https://youtu.be/-sCoXi_RcYU">동영상: Smart Styler</a></li>
+  <ul>
+   <li><a href="https://youtu.be/DrZNhi_z8A0">동영상: Server+Client User Page</a></li>
+   <li><a href="https://youtu.be/IO4ilfK0pNI">동영상: Smart Security - 지문인식</a></li>
+   <li><a href="https://youtu.be/KPzPgT8OTbU">동영상: Smart Security - 자동문</a></li>
+   <li><a href="https://youtu.be/6SzFV7boc3Y">동영상: Smart CCTV - User Page에서 실시간 확인</a></li>
+   <li><a href="https://youtu.be/MOalms-jVFo">동영상: Smart Sensor LED</a></li>
+   <li><a href="https://youtu.be/2tuxZsQu5Gs">동영상: Smart Fan</a></li>
+   <li><a href="https://youtu.be/9sLJtIJzzKU">동영상: Smart LED - User Page에서 제어</a></li>
+   <li><a href="https://youtu.be/-ErMg0LLR8o">동영상: Smart LED - 구글 어시스턴트로 음성 제어</a></li>
+   <li><a href="https://youtu.be/-sCoXi_RcYU">동영상: Smart Styler</a></li>
+ </ul>
+</ul>
+<ul>
+  <li>Epilogue: 프로젝트를 진행하면서 어려웠던 점</li>
+  <ul>
+    <li>Flask와 Server의 통신: request 부분 이해에 대한 어려움</li>
+    <li>초음파 센서,온습도 센서 측정 오류</li>
+    <li>지문인식 센서 TX/RX 통신 교차 연결에 대한 어려움</li>
+    <li>OpenCV 라이브러리 설치 시간이 굉장히 오래 걸림</li>
+    <li>라즈베리파이 마이크 연결 모듈과 설정이 까다롭고 오래 걸림</li>
+    <li>AWS RDS 시간 오류</li>
+    <li>납땜, 전선 연장의 어려움</li>
+    <li>라즈베리파이의 로컬 와이파이 통신 문제</li>
+    <li>로그 분석후 DB에 저장하는 타이밍을 언제 해야되는 가에 대한 결정의 어려움</li>
+   </ul>
  </ul>
