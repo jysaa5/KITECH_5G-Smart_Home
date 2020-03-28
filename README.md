@@ -51,5 +51,73 @@
     <td align=center>기능</td><td align=center>Smart Security: 지문인식기</td><td align=center>Smart Fan, Smart Sensor LED</td><td align=center>Smart Security: Smart CCTV, 자동문</td><td align=center>Smart LED, My Home History: Data Analysis</td><td align=center>Server 담당, Smart Styler</td><td align=center>서포트 역할   </td>
   </tr>
   </table>
-  <li>H/W: RaspberryPi 3
+ <li>H/W: RaspberryPi 3</li>
+ <li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
+ <li>사용한 기술</li>
+ <table>
+  <tr>
+   <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
+  </tr>
+  <tr>
+   <th colspan='2' background-color="#FFFF00">서버(Server)</th>
+  </tr>
+  <tr>
+   <td align=center>Java</td> <td align=center>8</td>
+  </tr>
+  <tr>
+   <td align=center>Spring Framework</td> <td align=center>4.3.18</td>
+  </tr>
+  <tr>
+  <td align=center>Apache Tomcat</td> <td align=center>8.5.49</td>
+  </tr>
+  <tr>
+   <td align=center>AWS EC2</td> <td></td>
+  </tr>
+  <tr>
+   <th colspan='2'>데이터베이스(DB)</th>
+  </tr>
+  <tr>
+   <td align=center>MySQL</td> <td align=center>8.0.18</td>
+  </tr>
+  <tr>
+    <td align=center>MyBatis</td> <td align=center>3.4.6</td>
+  </tr>
+    <tr>
+    <td align=center>AWS RDS</td> <td></td>
+  </tr>
+    <tr>
+   <th colspan='2'>Client-User Page</hd>
+  </tr>
+   <tr>
+    <td align=center>JSP</td> <td></td>
+  </tr>
+  <tr>
+   <td align=center>JSTL, EL</td> <td></td>
+  </tr>
+  <tr>
+   <td align=center>HTML</td> <td align=center>5</td>
+  </tr>
+  <tr>
+   <td align=center>CSS</td> <td align=center>3</td>
+  </tr>
+  <tr>
+   <td align=center>JavaScript</td> <td></td>
+  </tr>
+   <tr>
+   <td align=center>jQuery</td> <td></td>
+  </tr>
+   <tr>
+   <td align=center>Ajax</td> <td></td>
+  </tr>
+   <tr>
+   <td align=center>JSON, XML parsing</td> <td></td>
+  </tr>
+   <tr>
+   <td align=center>Bootstrap</td> <td align=center>4.4.1</td>
+  </tr>
+  <tr>
+  <td>Python</td>
+  <td>3.8.1</td>
+  </tr>
+ </table>
  </ul>
