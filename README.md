@@ -34,12 +34,12 @@
 <img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_13.PNG?raw=true" width="90%" height="90%">
 <ul>
   <li>프로젝트 주제: Smart Home<br></li>
-  <li>프로젝트 기간: 2020.02.19~2020.03.27<br></li>
+  <li>프로젝트 기간: 2020.02.19~2020.03.27 (총37일) <br></li>
   <li>팀명: 5G / 팀장: 박지은  <br></li>
   <li>팀원: <a href="https://github.com/jy950902">구자윤</a>, <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a>   <br></li>
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Proposal">프로젝트 기획안</a></li>
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Presentation">프로젝트 발표</a></lli>
-  <li>역할: 각 기능별 코드 작성, 구현, 제작 <br></li>
+  <li>역할 분담: 각 기능별 코드 작성, 구현, 제작 <br></li>
    <table>
   <tr>
   <th colspan = "7" align=center>프로젝트 주제: Smart Home</th>
@@ -48,12 +48,12 @@
     <td align=center>팀원</td> <td align=center>구자윤</td> <td align=center>박지은</td> <td align=center>조성빈</td> <td align=center>조지윤</td> <td align=center>김주연</td> <td align=center>정용기</td>
   </tr>
   <tr>
-    <td align=center>기능</td><td align=center>Smart Security: 지문인식기</td><td align=center>Smart Fan, Smart Sensor LED</td><td align=center>Smart Security: Smart CCTV, 자동문</td><td align=center>Smart LED, My Home History: Data Analysis</td><td align=center>Server 담당, Smart Styler</td><td align=center>서포트 역할   </td>
+    <td align=center>기능</td><td align=center>Smart Security: 지문인식기</td><td align=center>Smart Fan, Smart Sensor LED</td><td align=center>Smart Security: Smart CCTV, 자동문</td><td align=center>Smart LED, My Home History: Data Analysis</td><td align=center>Server 담당, Smart Styler</td><td align=center>서포트 역할</td>
   </tr>
-  </table>
- <li>H/W: RaspberryPi 3</li>
+</table>
  <li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
- <li>사용한 기술</li>
+ <li>개발 환경(H/W): RaspberryPi 3</li>
+ <li>개발  환경(S/W)</li>
  <table>
   <tr>
    <th align=center>언어 & 기술 & 구조</th> <th align=center>버전</th>
