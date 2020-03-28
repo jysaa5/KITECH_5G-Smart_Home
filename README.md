@@ -37,6 +37,19 @@
   <li>프로젝트 기간: 2020.02.19~2020.03.27<br></li>
   <li>팀명: 5G / 팀장: 박지은  <br></li>
   <li>팀원: <a href="https://github.com/jy950902">구자윤</a>, <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a>   <br></li>
-  <li>역할: 각각 센서 연결, 코드 작성 중 <br></li>
+  <li>프로젝트 기획안</li>
+  <li>프로젝트 발표</lli>
+  <li>역할: 각 기능별 코드 작성, 구현, 제작 <br></li>
+   <table>
+  <tr>
+  <th colspan = "6" align=center>프로젝트 주제: Smart Home</th>
+  </tr>
+  <tr>
+    <td align=center>팀원</td> <td align=center>구자윤</td> <td align=center>박지은</td> <td align=center>조성빈</td> <td align=center>조지윤</td> <td align=center>김주연</td> <td align=center>정용기</td>
+  </tr>
+  <tr>
+    <td align=center>기능</td><td align=center>Smart Security: 지문인식기</td><td align=center>Smart Fan</td><td align=center>Smart Security: Smart CCTV, 자동문</td><td align=center>Smart LED, My Home History: Data Analysis</td><td align=center>서포트 역할</td> <td>Server 담당, Smart Styler</td>
+  </tr>
+  </table>
   <li>H/W: RaspberryPi 3
  </ul>
