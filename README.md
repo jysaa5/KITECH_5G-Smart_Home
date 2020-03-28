@@ -213,6 +213,5 @@
   <td align=center>1.1.1</td>
   </tr>
  </table>
- <li>구현한 동영상: Server+Client User Page</li>
- https://youtu.be/DrZNhi_z8A0
+ <li><a href="https://youtu.be/DrZNhi_z8A0">구현한 동영상: Server+Client User Page</a></li>
  </ul>
