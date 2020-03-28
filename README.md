@@ -233,9 +233,9 @@
   </tr>
  </table>
  <li><a href="https://youtu.be/DrZNhi_z8A0">동영상: Server+Client User Page</a></li>
- <li><a href="https://youtu.be/IO4ilfK0pNI">동영상: 지문인식</a></li>
- <li><a href="https://youtu.be/KPzPgT8OTbU">동영상: 자동문</a></li>
- <li><a href="https://youtu.be/6SzFV7boc3Y">동영상: 실시간 Smart CCTV</a></li>
+ <li><a href="https://youtu.be/IO4ilfK0pNI">동영상: Smart Security - 지문인식</a></li>
+ <li><a href="https://youtu.be/KPzPgT8OTbU">동영상: Smart Security - 자동문</a></li>
+ <li><a href="https://youtu.be/6SzFV7boc3Y">동영상: Smart CCTV - User Page에서 실시간 확인</a></li>
  <li><a href="https://youtu.be/MOalms-jVFo">동영상: Smart Sensor LED</a></li>
  <li><a href="https://youtu.be/2tuxZsQu5Gs">동영상: Smart Fan</a></li>
  <li><a href="https://youtu.be/9sLJtIJzzKU">동영상: Smart LED - User Page에서 제어</a></li>
