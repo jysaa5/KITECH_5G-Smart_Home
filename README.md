@@ -116,8 +116,15 @@
    <td align=center>Bootstrap</td> <td align=center>4.4.1</td>
   </tr>
   <tr>
-  <td>Python</td>
-  <td>3.8.1</td>
+   <th colspan='2'>Client-Raspberry Pi</hd>
+  </tr>
+  <tr>
+  <td align=center>Python</td>
+  <td align=center>3.8.1</td>
+  </tr>
+  <tr>
+  <td align=center>Flask</td>
+  <td align=center>1.1.1</td>
   </tr>
  </table>
  </ul>
