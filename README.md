@@ -260,4 +260,8 @@
     <li>라즈베리파이의 로컬 와이파이 통신 문제</li>
     <li>로그 분석후 DB에 저장하는 타이밍을 언제 해야되는 가에 대한 결정의 어려움</li>
    </ul>
+  <br>
+  <li>프로젝트 업데이트 History<br></li>
+   2020.03.28 - <a href="https://github.com/jysaa5/KITECH_IoT">KITECH_IoT Repository</a>에서 프로젝트 주제별로 분리<br>
+ <br>
  </ul>
