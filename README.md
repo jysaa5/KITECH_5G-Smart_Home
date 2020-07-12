@@ -49,22 +49,22 @@
 
    <table font-size:'10'>
   <tr>
-  <td align=center><h6>팀원</h6></td>
-  <td align=center><h6>구자윤</h6></td>
-  <td align=center><h6>박지은</h6></td>
-  <td align=center><h6>조성빈</h6></td>
-  <td align=center><h6>조지윤</h6></td>
-  <td align=center><h6>김주연</h6></td>
-  <td align=center><h6>정용기</h6></td>
+  <td align=center>팀원</td>
+  <td align=center>구자윤</td>
+  <td align=center>박지은</td>
+  <td align=center>조성빈</td>
+  <td align=center>조지윤</td>
+  <td align=center>김주연</td>
+  <td align=center>정용기</td>
   </tr>
   <tr>
-  <td align=center><h6>기능</h6></td>
-  <td align=center><h6>Smart Security: 지문인식기<h6></td>
-  <td align=center><h6>Smart Fan, Smart Sensor LED</h6></td>
-  <td align=center><h6>Smart Security: Smart CCTV, 자동문</h6></td>
-  <td align=center><h6>Smart LED, My Home History: Data Analysis</h6></td>
-  <td align=center><h6>Server 담당, Smart Styler</h6></td>
-  <td align=center><h6>서포트 역할</h6></td>
+  <td align=center>기능</td>
+  <td align=center>Smart Security: 지문인식기</td>
+  <td align=center>Smart Fan, Smart Sensor LED</td>
+  <td align=center>Smart Security: Smart CCTV, 자동문</td>
+  <td align=center>Smart LED, My Home History: Data Analysis</td>
+  <td align=center>Server 담당, Smart Styler</td>
+  <td align=center>서포트 역할</td>
   </tr>
 </table>
 
