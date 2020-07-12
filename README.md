@@ -47,7 +47,7 @@
   <li>역할 분담: 프로젝트 기획, 기획안 작성, 각 기능별 코드 작성, 구현, 제작, 발표용 ppt 작성, 발표</li>
 <br>
 
-   <table font-size:'10'>
+<table font-size:'10'>
   <tr>
   <td align=center>팀원</td>
   <td align=center>구자윤</td>
@@ -67,9 +67,11 @@
   <td align=center>서포트 역할</td>
   </tr>
 </table>
-
- <li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
- <br>
+<br>
+ 
+<li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
+<br>
+ 
  <li>개발 환경(H/W)</li>
  <table>
   <tr>
