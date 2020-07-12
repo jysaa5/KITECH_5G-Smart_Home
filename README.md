@@ -1,7 +1,10 @@
 ## 한국생산기술연구원(KITECH) IoT기술을 활용한 생산 공정 실무자 양성과정
 2019.10.01 ~ 2020.03.31 <br>
 한국생산기술연구연 2019년도 출연(연) 4차인재양성사업 하반기 직무 훈련생 김주연(JooYeon Kim)입니다.<br>
-이 공간은 IoT Project Repository입니다. <br><br>
+이 공간은 IoT Project Repository입니다. 
+<br>
+<br>
+
 ## Team Project: Web Server + Client User Page + RaspberryPi Flask Server
 <h3><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Server_And_Client%20User%20Page_Version_2020.03.09/IoT_TeamProject_200309">[Spring 프로젝트] </a></h3>
 <!--<h3><a href="http://ec2-13-209-26-197.ap-northeast-2.compute.amazonaws.com:8080/smarthome/">[AWS로 배포된 Client User Page]</a><br></h3>-->
@@ -34,14 +37,16 @@
 <img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_13.PNG?raw=true" width="90%" height="90%">
 
 <ul>
-  <li>프로젝트 주제: Smart Home<br></li>
-  <li>프로젝트 기간: 2020.02.19~2020.03.27 (총37일) <br></li>
-  <li>팀명: 5G / 팀장: 박지은  <br></li>
-  <li>팀 구성원: <a href="https://github.com/jy950902">구자윤</a>, <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a>   <br></li>
+  <li>프로젝트 주제: Smart Home</li>
+  <li>프로젝트 기간: 2020.02.19~2020.03.27 (총37일)</li>
+  <li>팀명: 5G</li>
+  <li>팀장: 박지은</li>
+  <li>팀 구성원: <a href="https://github.com/jy950902">구자윤</a>, <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a></li>
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Proposal">프로젝트 기획안</a></li>
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Presentation">프로젝트 발표</a></lli>
   <li>역할 분담: 프로젝트 기획, 기획안 작성, 각 기능별 코드 작성, 구현, 제작, 발표용 ppt 작성, 발표</li>
-<br>   
+<br>
+
    <table font-size:'10'>
   <tr>
   <td align=center><h6>팀원</h6></td>
