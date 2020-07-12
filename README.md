@@ -32,6 +32,7 @@
 <img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_12.PNG?raw=true" width="90%" height="90%">
 <h2>My Home History: 실시간 온도 센서 로그 DB 상세보기</h2>
 <img src="https://github.com/jysaa5/KITECH_5G-Smart_Home/blob/master/Project_Photo/Team%20Project_IoT_13.PNG?raw=true" width="90%" height="90%">
+
 <ul>
   <li>프로젝트 주제: Smart Home<br></li>
   <li>프로젝트 기간: 2020.02.19~2020.03.27 (총37일) <br></li>
@@ -39,18 +40,29 @@
   <li>팀 구성원: <a href="https://github.com/jy950902">구자윤</a>, <a href="https://github.com/jysaa5">김주연</a>, <a href="https://github.com/jieunin1213">박지은</a>, <a href="https://github.com/capashage2">정용기</a>,  <a href="https://github.com/sjm99198">조성빈</a>, <a href="https://github.com/db3124">조지윤</a>   <br></li>
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Proposal">프로젝트 기획안</a></li>
   <li><a href="https://github.com/jysaa5/KITECH_5G-Smart_Home/tree/master/Project_Presentation">프로젝트 발표</a></lli>
-  <li>역할 분담: 프로젝트 기획, 기획안 작성, 각 기능별 코드 작성, 구현, 제작, 발표용 ppt 작성, 발표 <br></li>
+  <li>역할 분담: 프로젝트 기획, 기획안 작성, 각 기능별 코드 작성, 구현, 제작, 발표용 ppt 작성, 발표</li>
+<br>   
    <table font-size:'10'>
   <tr>
-  <th colspan = "7" align=center>프로젝트 주제: Smart Home</th>
+  <td align=center><h6>팀원</h6></td>
+  <td align=center><h6>구자윤</h6></td>
+  <td align=center><h6>박지은</h6></td>
+  <td align=center><h6>조성빈</h6></td>
+  <td align=center><h6>조지윤</h6></td>
+  <td align=center><h6>김주연</h6></td>
+  <td align=center><h6>정용기</h6></td>
   </tr>
   <tr>
-  <td align=center><h6>팀원</h6></td> <td align=center><h6>구자윤</h6></td> <td align=center><h6>박지은</h6></td> <td align=center><h6>조성빈</h6></td> <td align=center><h6>조지윤</h6></td> <td align=center><h6>김주연</h6></td> <td align=center><h6>정용기</h6></td>
-  </tr>
-  <tr>
-  <td align=center><h6>기능</h6></td><td align=center><h6>Smart Security: 지문인식기<h6></td><td align=center><h6>Smart Fan, Smart Sensor LED</h6></td><td align=center><h6>Smart Security: Smart CCTV, 자동문</h6></td><td align=center><h6>Smart LED, My Home History: Data Analysis</h6></td><td align=center><h6>Server 담당, Smart Styler</h6></td><td align=center><h6>서포트 역할</h6></td>
+  <td align=center><h6>기능</h6></td>
+  <td align=center><h6>Smart Security: 지문인식기<h6></td>
+  <td align=center><h6>Smart Fan, Smart Sensor LED</h6></td>
+  <td align=center><h6>Smart Security: Smart CCTV, 자동문</h6></td>
+  <td align=center><h6>Smart LED, My Home History: Data Analysis</h6></td>
+  <td align=center><h6>Server 담당, Smart Styler</h6></td>
+  <td align=center><h6>서포트 역할</h6></td>
   </tr>
 </table>
+
  <li>구현한 기능: Server, Client Program, RaspberryPi 통신, Smart IoT 기기 기능 구현<br></li>
  <br>
  <li>개발 환경(H/W)</li>
